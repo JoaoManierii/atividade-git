@@ -18,7 +18,6 @@ Assegure-se de demonstrar tudo que aprendeu: cabeçalhos, negrito, itálico, lis
 ---
 🌀
 ***
-
 <!--Enfasis-->
 *Enfasi*
 
