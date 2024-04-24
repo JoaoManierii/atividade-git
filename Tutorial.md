@@ -2,6 +2,8 @@
 
 Tudo que voce precisa saber sobre essa linguagem de marcacao !
 Assegure-se de demonstrar tudo que aprendeu: cabeçalhos, negrito, itálico, listas, tabelas, bloco de código, imagens, etc.
+---
+😵‍💫
 <!--Headings-->
 
 # H1
@@ -12,7 +14,9 @@ Assegure-se de demonstrar tudo que aprendeu: cabeçalhos, negrito, itálico, lis
 ###### H6
 
 <!--Dividers-->
+🌪️
 ---
+🌀
 ***
 
 <!--Enfasis-->
